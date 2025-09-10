@@ -58,9 +58,7 @@ Comprehensive documentation is available at [docs.akash.network](https://docs.ak
 Join our vibrant community and stay connected:
 
 - **Discord**: [discord.akash.network](https://discord.akash.network) - Real-time chat and support
-- **Forum**: [forum.akash.network](https://forum.akash.network) - In-depth discussions and proposals
 - **Twitter**: [@akashnet_](https://twitter.com/akashnet_) - Latest news and updates
-- **Telegram**: [t.me/AkashNW](https://t.me/AkashNW) - Community chat
 - **Reddit**: [r/akashnetwork](https://reddit.com/r/akashnetwork) - Community discussions
 
 ## 🤝 Contributing
