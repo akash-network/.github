@@ -5,8 +5,7 @@
 [![Discord](https://img.shields.io/discord/747885925232672829?label=Discord&logo=discord)](https://discord.akash.network)
 [![Twitter](https://img.shields.io/twitter/follow/akashnet_?style=social)](https://twitter.com/akashnet_)
 
-[Akash Network](https://akash.network) is the world's first decentralized cloud computing marketplace that enables anyone to buy and sell computing resources securely and efficiently. Built on the Cosmos SDK, Akash provides a permissionless, sovereign, and open cloud where developers can deploy applications at a fraction of the cost of traditional cloud providers.
-
+[Akash Network](https://akash.network) is a secure, transparent, and decentralized cloud computing marketplace that connects those who need computing resources (tenants) with those that have computing capacity to lease (providers).
 ## 🏗️ Project Structure
 
 The Akash Network ecosystem consists of several key repositories:
