@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-akash.network-blue)](https://akash.network)
 [![Documentation](https://img.shields.io/badge/Docs-docs.akash.network-green)](https://docs.akash.network)
 [![Discord](https://img.shields.io/discord/747885925232672829?label=Discord&logo=discord)](https://discord.akash.network)
-[![Twitter](https://img.shields.io/twitter/follow/akashnet_?style=social)](https://twitter.com/akashnet_)
+[![Twitter](https://img.shields.io/twitter/follow/akashnet_?style=social)](https://twitter.com/akashnet)
 
 [Akash Network](https://akash.network) is a secure, transparent, and decentralized cloud computing marketplace that connects those who need computing resources (tenants) with those that have computing capacity to lease (providers).
 ## 🏗️ Project Structure
