@@ -1,7 +1,7 @@
 # Akash Network
 
 [![Website](https://img.shields.io/badge/Website-akash.network-blue)](https://akash.network)
-[![Documentation](https://img.shields.io/badge/Docs-docs.akash.network-green)](https://akash.network/docs)
+[![Documentation](https://img.shields.io/badge/Docs-akash.network/docs-green)](https://akash.network/docs)
 [![Discord](https://img.shields.io/discord/747885925232672829?label=Discord&logo=discord)](https://discord.akash.network)
 [![Twitter](https://img.shields.io/twitter/follow/akashnet?style=social)](https://twitter.com/akashnet)
 
