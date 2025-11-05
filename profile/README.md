@@ -36,7 +36,7 @@ The Akash Network ecosystem consists of several key repositories:
 
 ### For Providers
 1. **Become a Provider**: Set up your infrastructure to earn AKT by providing computing resources
-2. **Provider Setup Guide**: Follow the [provider documentation](https://docs.akash.network/providers)
+2. **Provider Setup Guide**: Follow the [provider documentation](https://akash.network/docs/providers/intro/)
 
 ### For Contributors
 1. **Find an Issue**: Browse open issues across our console and support repositories
