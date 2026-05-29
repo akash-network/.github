@@ -16,6 +16,7 @@ The Akash Network ecosystem consists of several key repositories:
 - **[support](https://github.com/akash-network/support)** - Core protocol support and issue tracking
 
 ### Clients
+- **[console-air](https://github.com/akash-network/console-air)** - Self-hostable, self-custody crypto wallet UI for deploying
 - **[console](https://github.com/akash-network/console)** - Web-based deployment interface
 - **[terraform-provider-akash](https://github.com/akash-network/terraform-provider-akash)** - Akash Terraform provider
 
