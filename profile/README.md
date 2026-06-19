@@ -24,9 +24,8 @@ The Akash Network ecosystem consists of several key repositories:
 - **[chain-sdk](https://github.com/akash-network/chain-sdk)** - Akash Network SDK
 
 ### Documentation & Community
-- **[docs](https://github.com/akash-network/docs)** - Official documentation source
+- **[website](https://github.com/akash-network/website)** - Official website source code and documentation
 - **[aep](https://github.com/akash-network/AEP)** - Akash Enhancement Proposals and roadmap
-- **[website](https://github.com/akash-network/website)** - Official website source code
 - **[community](https://github.com/akash-network/community)** - Community resources and governance
 - **[awesome-akash](https://github.com/akash-network/awesome-akash)** - Curated list of Akash resources
 
